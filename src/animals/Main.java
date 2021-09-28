@@ -7,6 +7,7 @@ public class Main {
 		  Cat myCat = new Cat("Garfield", 3);
 		  Lion wildLion = new Lion("Simba", 10);
 		   
+		  //methods oproepen van je childclasses
 		  myDog.speak();
 		  myCat.speak();
 		  myDog.friendly();

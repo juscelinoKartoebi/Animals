@@ -1,5 +1,6 @@
 package animals;
 
+//Parent class waar de childclasses gaan inheriten
 public abstract class Animal {
 	 protected String name;
 	 protected int age;

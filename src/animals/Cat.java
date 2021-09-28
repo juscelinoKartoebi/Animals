@@ -1,5 +1,6 @@
 package animals;
 
+//childclass
 public class Cat extends Animal {
 
 	public Cat(String name, int age) {
