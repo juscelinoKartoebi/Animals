@@ -9,9 +9,12 @@ public class Main {
 
 		// methods oproepen van je childclasses
 		myDog.speak();
-		myCat.speak();
 		myDog.friendly();
+		myCat.speak();
 		wildLion.speak();
+		
+		
+		
 
 	}
 }
